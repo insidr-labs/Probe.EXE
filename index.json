@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-11T00:30:12.000Z",
+  "updated": "2026-10-12T00:30:14.000Z",
   "rules": "2026-10-05",
   "files": [
     {
       "epoch": 175,
       "csv": "epoch-175.csv",
       "jsonl": "epoch-175.jsonl",
-      "rows": 1894
+      "rows": 2816
     },
     {
       "epoch": 174,
